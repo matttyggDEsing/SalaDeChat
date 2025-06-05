@@ -1,0 +1,14 @@
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\bin\Debug\net9.0\ClienteApp.exe
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\bin\Debug\net9.0\ClienteApp.deps.json
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\bin\Debug\net9.0\ClienteApp.runtimeconfig.json
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\bin\Debug\net9.0\ClienteApp.dll
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\bin\Debug\net9.0\ClienteApp.pdb
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\obj\Debug\net9.0\ClienteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\obj\Debug\net9.0\ClienteApp.AssemblyInfoInputs.cache
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\obj\Debug\net9.0\ClienteApp.AssemblyInfo.cs
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\obj\Debug\net9.0\ClienteApp.csproj.CoreCompileInputs.cache
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\obj\Debug\net9.0\ClienteApp.dll
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\obj\Debug\net9.0\refint\ClienteApp.dll
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\obj\Debug\net9.0\ClienteApp.pdb
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\obj\Debug\net9.0\ClienteApp.genruntimeconfig.cache
+C:\Users\Maty Anderegg\Desktop\servidor\ClienteApp\obj\Debug\net9.0\ref\ClienteApp.dll
